@@ -1,0 +1,15 @@
+
+.box{
+     margin:auto;
+	 width:500px;
+	 height:400px;
+	 background-color:pink;
+	 font-weight:bold;
+}
+.box1{
+	margin-top:30px;
+}
+label
+{
+	margin-left:40px;
+}
